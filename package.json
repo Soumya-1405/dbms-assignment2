@@ -1,0 +1,25 @@
+{
+  "name": "assignment2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/nconf": "^0.10.6",
+    "csv-parser": "^3.0.0",
+    "lodash": "^4.17.21",
+    "nconf": "^0.12.1",
+    "papaparse": "^5.4.1",
+    "typescript": "^5.5.2"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.17.6",
+    "@types/node": "^20.14.8",
+    "@types/papaparse": "^5.3.14"
+  }
+}
